@@ -74,4 +74,3 @@ O código JavaScript em `index.js` implementa a lógica de interação com a API
 - **Uso**: Inicializa a aplicação sincronizando o estado local com o JSON Server.
 
 Essas funções garantem a sincronização entre o frontend e o backend simulado, utilizando Fetch API para realizar requisições HTTP aos endpoints do JSON Server. O estado local (`transactions`) é mantido em memória para otimizar a renderização e cálculos, como o saldo total.</content>
-<parameter name="filePath">c:\Users\User\Downloads\Estudos\CursoOnebitcode\Curso-onebitcode\Javascript\exercicios\consumindo-apis\sistema-financas-json-server\readme.md
